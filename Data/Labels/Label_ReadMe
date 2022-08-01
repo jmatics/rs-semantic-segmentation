@@ -1,1 +1,6 @@
 The corresponding image labels can be found in the Hessenbox folder.
+Labels are;
+  0 - Background
+  1 - soil
+  2 - herbaceous vegetation
+  3 - woody vegetation
